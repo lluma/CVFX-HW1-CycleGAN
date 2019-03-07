@@ -60,7 +60,7 @@ When tranfering apple to orange, it always cannot remove the stem. We think that
 
 	* Orange-to-Apple (from left to right):<br>
 <img src="https://imgur.com/iUVkmRo.jpg" width="200" ><img src="https://imgur.com/yYWPkZ5.jpg" width="200" > <img src="https://imgur.com/c0qKLFU.jpg" width="200" ><br>
-Transfering orange to apple, there is some problem happened above, but it is little better than Transfering apple to orange. The UNIT does transfer some feature of the apple, like stem and smooth appearance.
+Transfering orange to apple, there is same problem happened above, but it is little better than Transfering apple to orange. The UNIT does transfer some feature of the apple, like stem and smooth appearance.
     * Test Apple-to-Orange-to-Apple:
         <p align="center">
         [cycleGAN]<br>
