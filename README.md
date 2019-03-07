@@ -1,5 +1,5 @@
 # CVFX HW1 Report  - Team 16 
-
+## Members: 王科鈞 104062226, 鄭凱文 104062223, 王鴻鈞 104062332
 ### 1. Training CycleGAN
 * Dataset: apple2orange
 * Platform: WIndows10 with NVIDIA GTX1080Ti
